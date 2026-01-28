@@ -1,0 +1,5 @@
+{
+  "name": "BT Business My Account Prototype",
+  "description": "A high-fidelity, responsive prototype for BT Business My Account featuring full CRUD workflows for Orders, Quotes, Invoices, and more, strictly adhering to the BT brand identity.",
+  "requestFramePermissions": []
+}
